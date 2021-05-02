@@ -31,7 +31,7 @@ After extracting the predicted prices, we passed onto defining the trading rule.
 
 ## Articles
 
-- "Python Trading Toolbox: a gentle introduction to backtesting", Stefano Basurto, shorturl.at/bzGO5
+- "Python Trading Toolbox: a gentle introduction to backtesting", Stefano Basurto, https://shorturl.at/vQTV2
 - https://www.investopedia.com/articles/trading/05/030205.asp
 - https://realpython.com/python3-object-oriented-programming/
 - "Time Series Forecasting with LSTMs and Prophet", Maximilian Strauß  https://tinyurl.com/62vbrx3m
