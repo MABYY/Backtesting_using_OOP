@@ -13,6 +13,7 @@ The historical data can be accessed by installing yfinance library (https://pypi
 Libraries used to create visualizations
 
 > pip install matplotlib
+
 > pip install seaborn
 
 ## The Model
